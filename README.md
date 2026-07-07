@@ -12,10 +12,23 @@ What I Offer
 
 Core Technologies
 -----------------
-- Android: Kotlin, Java, Jetpack (Compose, ViewModel, LiveData), Retrofit, Coroutines, Hilt
-- Back-end: Node.js (Express), Spring Boot, REST, GraphQL, WebSockets
-- Databases & Cache: PostgreSQL, MySQL, MongoDB, Redis
-- DevOps & Tooling: Docker, Git, GitHub Actions, AWS / GCP, Postman, Sentry, ELK
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io)
+
+Databases & Cache
+-----------------
+[![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+
+DevOps & Tooling
+----------------
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
 
 Backend & Frameworks
 --------------------
@@ -42,9 +55,9 @@ Available for freelance and long-term engagements. For a fast response, include:
 
 Contact
 -------
-- Email: mubarak@example.com  (replace with your real email)
-- LinkedIn: https://www.linkedin.com/in/your-profile  (add your link)
-- GitHub: https://github.com/your-username  (add your username)
+- Email: [mubarak@example.com](mailto:mubarak@example.com)  (replace with your real email)
+- LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)  (add your link)
+- GitHub: [eng-mubarak-saeed](https://github.com/eng-mubarak-saeed)
 
 Call to Action
 --------------
