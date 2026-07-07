@@ -1,4 +1,4 @@
-# Mubarak Saeed — Full-Stack Developer (Android & Web Back-end)
+### Full-Stack Developer (Android & Web Back-end)
 
 [![GitHub followers](https://img.shields.io/github/followers/eng-mubarak-saeed?style=social)](https://github.com/eng-mubarak-saeed) [![Email](https://img.shields.io/badge/Email-mubarak%40example.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:mubarak@example.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) [![Resume](https://img.shields.io/badge/Resume-PDF-lightgrey?style=flat-square&logo=adobe&logoColor=white)](https://example.com/resume.pdf)
 
